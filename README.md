@@ -1,2 +1,5 @@
-# computergames-project-ualg
-Computer Game Project - University of Algarve 2025/2026
+# Computer Games - University of Algarve
+
+---
+
+Computer Games Project - University of Algarve 2025/2026
